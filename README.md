@@ -62,7 +62,7 @@ I'm a passionate programmer, constantly learning, and a lover of both software a
 
 ## 📊 My Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eos175&theme=dark&hide_border=true" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=eos175&theme=dark" alt="GitHub Streak">
 <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=eos175&theme=dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
 
 
