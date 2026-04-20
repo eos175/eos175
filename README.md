@@ -67,6 +67,13 @@ I'm a passionate programmer, constantly learning, and a lover of both software a
 <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a></td>
 </tr></table>
 
+## 🚀 Featured Project
+
+### [Jeosgram](https://jeosgram.io)
+<a href="https://jeosgram.io">
+    <img src="assets/jeosgram_logo.svg" alt="Jeosgram Logo" width="200"/>
+</a>
+
 ## 📊 My Stats
 
 <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=eos175&theme=dark" alt="GitHub Streak">
